@@ -1,0 +1,12 @@
+.sidebar {
+  float: left;
+  width: 50%;
+  background-color: lightgreen;
+  border-style: dashed;
+}
+
+img {
+  float: right;
+  height: 25%;
+  width: 24%;
+}
