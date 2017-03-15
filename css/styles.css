@@ -3,10 +3,13 @@
   width: 50%;
   background-color: lightgreen;
   border-style: dashed;
+  padding: 30px;
+  margin: 20px;
 }
 
 img {
   float: right;
   height: 25%;
   width: 24%;
+  padding: 25px;
 }
